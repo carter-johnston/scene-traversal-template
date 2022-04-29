@@ -17,9 +17,13 @@ public class HomeController {
     Stage stage;
     @FXML
     private Label welcomeText;
+    @FXML
+    private Label grade1;
+
 
     @FXML
     protected void onCampaignButtonClick() {
+
         welcomeText.setText("The Story Starts here!");
     }
 
