@@ -20,3 +20,7 @@ The base template doesn't showcase page traversal (The most used functionality i
     New Project -> JavaFX toolkit -> Build System: Maven -> Finish
 
 * Replace respective files in 'Java' and 'Resource' found in '..\src\main\'
+
+## Disclaimer:
+
+The repo is designed as to not propagate plagarism. The intent is for educational purposes only. Please refer to Licensing.
