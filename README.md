@@ -24,3 +24,7 @@ The base template doesn't showcase page traversal (The most used functionality i
 ## Disclaimer:
 
 The repo is designed as to not propagate plagarism. The intent is for educational purposes only. Please refer to Licensing.
+
+## Contributors:
+
+Thank you to Noah for figuring out JavaFX with me. https://github.com/Noahlinton32
