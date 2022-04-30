@@ -28,6 +28,5 @@
          </font>
       </Button>
       <Label layoutX="233.0" layoutY="326.0" prefHeight="22.0" prefWidth="146.0" text="Authors: Carter Johnston" />
-      <Label layoutX="267.0" layoutY="337.0" prefHeight="22.0" prefWidth="146.0" text="&amp; Noah Linton" />
    </children>
 </AnchorPane>
